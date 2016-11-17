@@ -1,7 +1,9 @@
-# Bloggers' Blog
+# Deligence Technologies' Blog
 
 #Overview 
-Welcome to Bloggers' Blog! The is a minimal blog app built using React Native with Meteor for android. This app provides with few functionalities of a blog and here we will go through the all the features provided by the app.
+Welcome to Deligence Technologies' Blog! The is a minimal blog app built using React Native with Meteor for android. This app provides with few functionalities of a blog and here we will go through the all the features provided by the app.
+
+You can contact us at info [@] deligence.com in case of any doubt or query.
 
 #Home
 
